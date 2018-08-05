@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="首页"
+        android:icon="@drawable/ic_home_white_18dp"
+        />
+    <item android:title="发现"
+        android:icon="@drawable/ic_movie_filter_white_18dp"
+        />
+    <item
+        android:title="历史"
+        android:icon="@drawable/ic_playlist_add_check_white_18dp" />
+
+</menu>
